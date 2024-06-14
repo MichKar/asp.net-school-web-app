@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1b3wkfOJJEqRHhlEap02LQAAAAACAAAAAAADZgAAwAAAABAAAACEOOUwZi9zxtcFv6DIE6abAAAAAASAAACgAAAAEAAAAOD9wpB7ugP/xA8pNAxLlUCAAAAAe1AoI7o6kkIlEhLk0zZCTem5JY+yhMS3XbnL+i+P5JsN6PdbNeTnad7diNoH+SMkN1k9xFhBTH8KlAa3wkvILXK8b7IqqN0+RfwWb6VqlnZiwQM96TB+jy8hk/AdOZVKq7ZhBru6pukc8um2sSwRO9Cj3YYVhQKZtbK+qmFF5ZQUAAAATtPaOMftAVDTpLHnTzC/zpWeViQ=</EncryptedPassword>
+    <History>True|2024-06-12T11:59:03.5029363Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="AzureDbConnection">
+      <Value>Server=tcp:schoolwebserver.database.windows.net,1433%3bInitial Catalog=SchoolDb%3bPersist Security Info=False%3bUser ID=schoolwebadmin%3bPassword=Student1%3bMultipleActiveResultSets=True%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

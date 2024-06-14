@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1b3wkfOJJEqRHhlEap02LQAAAAACAAAAAAADZgAAwAAAABAAAAA1v24ctszo92l1p4RqHMCNAAAAAASAAACgAAAAEAAAAFeFdX7gLrfa9XnjK/P9ImMgAAAAx7u353/9PWQ1P5QqJ0eulYcO+HfFdY0gOoyFmBvrN9EUAAAA81zl+i0UT1YtIcQwOQhNTXgAXCw=</EncryptedPassword>
+    <History>True|2024-06-12T13:09:22.4621525Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="AzureDbConnection">
+      <Value>Server=db5632.databaseasp.net%3b Database=db5632%3b User Id=db5632%3b Password=7e=BnT6%40C2_p%3b Encrypt=False%3b MultipleActiveResultSets=True%3b</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="SchoolDbConnection">
+      <Value>Server=db5632.databaseasp.net%3b Database=db5632%3b User Id=db5632%3b Password=7e=BnT6%40C2_p%3b Encrypt=False%3b MultipleActiveResultSets=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
